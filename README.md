@@ -73,7 +73,7 @@ USE ROLE dbt_role;
 CREATE SCHEMA IF NOT EXISTS dbt_db.dbt_schema;
 ```
 
-![alt text]()
+![alt text](https://github.com/sahilbishnoi26/Snowflake-DBT-Airflow-ETL-pipeline/blob/main/images/img1.png)
 
 ### 7. Build Data Models
 - Extract data from source and mirror into staging tables.
@@ -95,7 +95,7 @@ astro dev start
 - dbt handles data staging, transformation, and testing.
 - Snowflake stores the final star schema structure.
 
-![alt text]()
+![alt text](https://github.com/sahilbishnoi26/Snowflake-DBT-Airflow-ETL-pipeline/blob/main/images/img2.png)
 
 
 ## Project Structure
